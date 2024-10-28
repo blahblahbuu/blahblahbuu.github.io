@@ -6,7 +6,7 @@ _dog_  dog
 ## otsikko
 ### otsikko
 
-[Search for it.](www.google.com){:target="_blank"}
+[Search for it.](www.google.com)
 
 ![a pretty tiger](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/1920px-Walking_tiger_female.jpg)
 
