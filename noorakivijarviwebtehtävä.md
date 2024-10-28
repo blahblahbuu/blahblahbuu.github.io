@@ -8,7 +8,7 @@ _dog_  dog
 
 [Search for it.](www.google.com){:target="_blank"}
 
-![A pretty tiger](https://en.wikipedia.org/wiki/Tiger#/media/File:Walking_tiger_female.jpg)
+![a pretty tiger](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/1920px-Walking_tiger_female.jpg)
 
 > "Godliness with contentment is great gain, for we brought nothing into the world and we cannot take anything out of the world. But if we have food and clothing, with these we will be content. But those who desire to be rich fall into temptation, into a snare into many senseless and harmful desires that plunge people into ruin and destruction, for the love of money is the root of all kinds of evils. It is through this craving that some have wandered away from the path and pierced themselves with the many pangs of greed."
 
